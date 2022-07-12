@@ -1,2 +1,2 @@
-# VEC-Students-Club
-The aim of the project is to create a official students club website for the students of Velammal Engineering College. This website serves a genuine purpose of connecting passed-out Aluminis'  and present students.
+ACC - Association of Engineering Colleges in Chennai
+        This site aims to strengthen the relation between the students and also help in transferring the messages about various carnivals across other colleges.  
