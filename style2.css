@@ -1,16 +1,28 @@
 #demo .carousel-item img {
   object-fit: cover;
   object-position: center;
-  height: 70vh;
+  height: 80vh;
   overflow: hidden;
-  
 }
 .navbar{
   padding: 0;
 }
-
 .row{
   padding-top: 200px;
   padding-left: 50px;
   padding-right: 50px;
+}
+.reveal{
+    position: relative;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 2s ease;
+
+}
+.reveal.active{
+    transform: translateY(0px);
+    opacity: 1;
+}
+.demo{
+  padding-top: 200px;
 }
