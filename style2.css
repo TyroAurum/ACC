@@ -1,9 +1,16 @@
 #demo .carousel-item img {
   object-fit: cover;
   object-position: center;
-  height: 80vh;
+  height: 70vh;
   overflow: hidden;
+  
 }
 .navbar{
   padding: 0;
+}
+
+.row{
+  padding-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
