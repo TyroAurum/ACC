@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  margin-top: 3rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.banner{
+  margin: 5rem;
+  background-color: rgb(205, 205, 205);
+}
